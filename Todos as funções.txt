@@ -1,0 +1,6 @@
+data.createMainTable() # cria a tabela/arquivo inicial
+
+data.disconnect() # disconecta do banco de dados
+data.connect() # conecta no banco de dados
+data.addAccount("admin", "admin") # adiciona a conta no banco de dados
+data.getInfo() # retorna todos os valores da tabela de contas
