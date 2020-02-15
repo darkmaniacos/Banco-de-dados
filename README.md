@@ -1,8 +1,9 @@
 # Banco-de-dados
 é um básico sistema de banco de dados com login.
 
-- usa a library SQLite3.
-- quando for usar lembre de mudar o path do arquivo .bd para não dar nenhum erro!
+- Usa a library SQLite3.
+- Quando for usar lembre de mudar o path do arquivo .bd para não dar nenhum erro!
+- O projeto não tem um arquivo main, portanto abra o arquivo 'register.py' para registrar a conta
 
 Eu fiz em 1 dia esse script para aprender um pouco
 de poo e banco de dados em python. não tenho nenhuma intenção
