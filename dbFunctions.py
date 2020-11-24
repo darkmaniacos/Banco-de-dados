@@ -1,7 +1,7 @@
 import sqlite3
 
 class DataBase:
-    def __init__(self, name=r"\registros.db", path=r"C:\Users\darkmaniacos\Desktop\Python2\Aulas\python_SQLite"):
+    def __init__(self, name=r"\registros.db", path=r"BOTE O CAMINHO DO LOCAL DO 'registros.db' AQUI!"):
         self.name = name
         self.connection = name
         self.path = path 
